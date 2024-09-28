@@ -1,4 +1,5 @@
 # The Look - E-commerce Website Performance Analysis
+![thelook_illustration](visuals/7669015.jpg)
 
 ## Project Overview
 
