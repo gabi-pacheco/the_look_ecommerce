@@ -1,11 +1,11 @@
-# The Look - E-commerce Website Performance Analysis
+# The Look - E-commerce Marketing Analysis
 ![thelook_illustration](visuals/7669015.jpg)
 
 ## Project Overview
 
 The Look project analyzes the performance of an e-commerce platform using the [Kaggle dataset](https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset?resource=download&select=inventory_items.csv) by exploring user behavior, conversion rates, drop-off points, and customer journeys. By examining traffic sources and their effectiveness, the goal is to enhance the overall user experience, optimize marketing strategies, and ultimately drive higher conversions.
 
-## Key Business Questions
+## Key Business Questions :speech_balloon:
 
 1. **Which marketing channels drive the highest conversion rate?**  
    We aim to identify which traffic sources convert visitors into buyers most effectively, helping refine marketing efforts.
@@ -31,9 +31,9 @@ The Look project analyzes the performance of an e-commerce platform using the [K
 8. **How does seasonality affect customer behavior and conversion rates?**  
    Analyzing seasonal trends can reveal patterns that inform marketing and inventory decisions during peak times.
 
-## The Dataset
+## The Dataset :floppy_disk:
 
-The Look E-commerce Dataset provides a comprehensive view of online retail operations, encompassing various dimensions such as sales transactions, customer information, product attributes, website engagement metrics, logistics, and additional metadata. This dataset serves as a valuable resource for analyzing and understanding the dynamics of e-commerce business activities.
+The [Look E-commerce Dataset](https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset?resource=download&select=inventory_items.csv) provides a comprehensive view of online retail operations, encompassing various dimensions such as sales transactions, customer information, product attributes, website engagement metrics, logistics, and additional metadata, spreadout in *seven tables*. This dataset serves as a valuable resource for analyzing and understanding the dynamics of e-commerce business activities. For this ***Marketing analysis*** we used the three following tables, focusing mainly on the **events table**.
 
 ### Tables:
 
@@ -49,7 +49,13 @@ The Look E-commerce Dataset provides a comprehensive view of online retail opera
 
   **Fields**: `order_id`, `user_id`, `status`, `gender`, `created_at`, `returned_at`, `shipped_at`, `delivered_at`, `num_of_item`
 
-## Analysis Approach
+## Tools used 🔧
+
+- **:house: Google Sheets:** For data storage of transformed tables
+- **:snake: Python:** For initial data cleaning, feature engineering, and data export.
+- **📊 Power BI:** For dashboard creation, including metrics like conversion rates, time to purchase, cart churn, and session performance.
+
+## Analysis Approach 📈
 
 The analysis is structured around several key metrics and visualizations:
 
