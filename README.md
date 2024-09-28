@@ -1,5 +1,5 @@
 # The Look - E-commerce Marketing Analysis
-![thelook_illustration](visuals/7669015.jpg)
+![thelook_illustration](visuals/7669015.jpg) 
 
 ## Project Overview
 
@@ -79,3 +79,7 @@ The analysis is structured around several key metrics and visualizations:
 
 - **Trend Analysis**  
   Compare year-over-year changes in key metrics, such as the median time to purchase.
+
+
+## Image credits
+*Image 1: [pikisuperstar on Freepik](https://www.freepik.com/free-vector/hand-drawn-business-coffee-illustration_30118587.htm#fromView=keyword&page=1&position=2&uuid=d0bfeb2d-d283-4420-8c9a-9d08a4cd36ae)* 
